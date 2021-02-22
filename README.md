@@ -1,5 +1,8 @@
 # Ripple
 
+### Paper
+* https://arxiv.org/abs/2001.00222
+
 Ripple is a serverless computing framework designed to make complex applications on AWS Lambda.
 Ripple allows the user to chain lambda functions using S3 triggers 
 
